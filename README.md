@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
-</p>
-
-# 📚 CitasiCerdas
+# CitasiCerdas
 
 **Generator Sitasi & Daftar Pustaka Akademik — APA 7th Edition**
 
@@ -15,7 +8,7 @@ CitasiCerdas adalah aplikasi web yang membantu mahasiswa, peneliti, dan akademis
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
 | Fitur | Deskripsi |
 |---|---|
@@ -76,7 +69,7 @@ npm run start
 
 ---
 
-## 📁 Struktur Proyek
+## Struktur Proyek
 
 ```
 ts-citation-builder/
@@ -171,7 +164,7 @@ Penulis/Organisasi. (Tahun). Judul halaman. Nama Website. URL
 
 ---
 
-## 🤝 Kontribusi
+## Kontribusi
 
 Kontribusi sangat diterima! Silakan:
 
@@ -183,13 +176,7 @@ Kontribusi sangat diterima! Silakan:
 
 ---
 
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
-## 📚 Referensi
+## Referensi
 
 - American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). APA.
 - [Next.js Documentation](https://nextjs.org/docs)
